@@ -1,0 +1,62 @@
+body{
+    font-family: Noto, sans-serif;
+    background-color: #111111;
+}
+
+.header{
+    margin-top: 2%;
+}
+
+
+.title{
+    width: 40%;
+    font-family: Noto, sans-serif;
+    color: #b8b8b8;
+    font-size: 40px;
+    font-weight:bolder;
+    display: block;
+    margin: 30px auto;
+}
+
+.back-link{
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 2%;
+    font-size: 20px;
+    font-weight:800;
+    color: #5e5e5e;
+}
+
+.text-field{
+    line-height: 1.6;
+    border-radius: 8px;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+    color: #b8b8b8;
+    font-family: Noto, sans-serif;
+    height: 80%;
+    width: 40%;
+    padding: 5px 20px 10px 30px;
+
+}
+
+.quote{
+
+}
+
+.quote-line{
+    border-left: 5px solid #b8b8b8;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.contacts{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    color: #b8b8b8;
+    height: 80%;
+    width: 40%;
+}
