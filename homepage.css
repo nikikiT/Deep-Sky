@@ -22,6 +22,7 @@ body{
 .site-info{
     color: white;
     font-size: 20px;
+    margin-bottom: -50px;
 }
 
 .portal-header{
@@ -30,9 +31,10 @@ body{
 
 .post-grid{
     width: 40%;
-    height: 100px;
+    height: 10%;
     float: left;
     margin-left: 5%;
+    margin-bottom: -15px;
 }
 
 A:active{
@@ -52,20 +54,22 @@ A:active{
 }
 
 .post-meta{
-    padding-top: 5px;
+    padding-top: 1%;
+}
+
+.literature-header{
+    padding-top: 16%;
 }
 
 .quote-head{
-    margin-top: 20%;
+    margin-top: 24%;
 }
 
 .quote-line{
     border-left: 5px solid #b8b8b8;
     padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
-.literature-header{
-    padding-top: 200px;
-}
+

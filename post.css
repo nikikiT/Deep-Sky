@@ -16,6 +16,7 @@ body{
     font-weight:bolder;
     display: block;
     margin: 30px auto;
+    margin-bottom: 10px;
 }
 
 .back-link{
@@ -28,7 +29,7 @@ body{
 }
 
 .text-field{
-    line-height: 1.6;
+    line-height: 1.4;
     border-radius: 8px;
     font-size: 20px;
     display: block;
@@ -50,6 +51,7 @@ body{
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .contacts{
@@ -60,3 +62,12 @@ body{
     height: 80%;
     width: 40%;
 }
+
+.par{
+    margin-bottom: -8px;
+}
+
+h2{
+    margin-bottom: -18px;
+}
+
